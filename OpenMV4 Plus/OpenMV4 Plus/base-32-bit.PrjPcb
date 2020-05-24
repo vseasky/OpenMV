@@ -105,6 +105,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XZHSNIZZ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for base-32-bit\Design Rule Check - base-32-bit.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
